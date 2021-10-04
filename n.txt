@@ -1,0 +1,27 @@
+
+<html>
+<head>
+<title> height and weight table </title>
+<head>
+<body>
+<table border=10>
+<caption height and weight </caption>
+<tr>
+<th width=40%> name</th> 
+<th width=20%>class </th>
+<th width=20% heigh </th>
+<th width=20% weight </th>
+
+</tr>
+<tr>
+<td>  mani </td>
+<td> 12-g  </td>
+<td> 5'0"  </td>
+<td> 45   </td>   
+</tr>
+
+<tr>
+  
+<td>  vasu </td>
+<td>  11-h </td>
+
